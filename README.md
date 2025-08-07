@@ -1,8 +1,6 @@
 ## 👋 Olá, sou Mario Cezar
 
-Estudante do último semestre de Desenvolvimento de Sistemas no SENAI e graduando em Engenharia de Software na Universidade Católica de Salvador. Apaixonado por tecnologia, busco aplicar meus conhecimentos em programação em projetos reais, focando em soluções inovadoras e desenvolvimento técnico em ambientes colaborativos. 
-
-📫 Contato: mcezarfilho2007@gmail.com 
+Estudante do último semestre de Desenvolvimento de Sistemas no SENAI e graduando em Engenharia de Software na Universidade Católica de Salvador. Apaixonado por tecnologia, busco aplicar meus conhecimentos em programação em projetos reais, focando em soluções inovadoras e desenvolvimento técnico em ambientes colaborativos.  
 
 ---
 
