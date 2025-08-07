@@ -1,7 +1,6 @@
 ## 👋 Olá, sou Mario Cezar
 
-Apaixonado por tecnologia e resolução de problemas, sou estudante no último semestre de Desenvolvimento de Sistemas no SENAI e faço curso superior de Engenharia de Software na Universidade Católica de Salvador. Ao longo dessa trajetória, adquiri conhecimentos sólidos em programação. Busco aplicar esses aprendizados em projetos reais, contribuindo para soluções inovadoras enquanto desenvolvo minhas habilidades técnicas em ambientes colaborativos e profissionais. Também utilizo ferramentas de organização como o Trello para planejar tarefas e garantir uma boa gestão do tempo nos projetos.
-
+Estudante do último semestre de Desenvolvimento de Sistemas no SENAI e graduando em Engenharia de Software na Universidade Católica de Salvador. Apaixonado por tecnologia, busco aplicar meus conhecimentos em programação em projetos reais, focando em soluções inovadoras e desenvolvimento técnico em ambientes colaborativos. Utilizo ferramentas como Trello para organização e gestão de tempo.
 ---
 
 ### 💻 Linguagens e Tecnologias
