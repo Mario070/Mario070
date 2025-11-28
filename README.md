@@ -14,13 +14,18 @@ Estudante do último semestre de Desenvolvimento de Sistemas no SENAI e graduand
 
   <!-- Back-end -->
   <img title="Node.js" alt="Mario-Node" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img title="Prisma ORM" alt="Mario-Prisma" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" />
-  <img title="Java" alt="Mario-Java" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img title="Linguagem C" alt="Mario-C" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img title="Prisma ORM" alt="Mario-Prisma" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" />
+<img title="Java" alt="Mario-Java" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<!-- Banco de Dados -->
+<img title="MySQL" alt="Mario-MySQL" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img title="PostgreSQL" alt="Mario-PostgreSQL" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 
-  <!-- Banco de Dados -->
-  <img title="MySQL" alt="Mario-MySQL" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img title="PostgreSQL" alt="Mario-PostgreSQL" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+<!-- Adicionados -->
+<img title="SQL Server" alt="Mario-SQLServer" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+<img title="MongoDB" alt="Mario-MongoDB" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img title="Python" alt="Mario-Python" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img title="C# / .NET" alt="Mario-CSharp" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img title=".NET" alt="Mario-DotNet" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 
   <!-- Ferramentas -->
   <img title="Git" alt="Mario-Git" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
