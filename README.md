@@ -1,6 +1,6 @@
 ## 👋 Olá, sou Mario Cezar
 
-Desenvolvedor de software formado em Desenvolvimento de Sistemas pelo SENAI. e graduando em Engenharia de Software na Universidade Católica de Salvador. Apaixonado por tecnologia, busco aplicar meus conhecimentos em projetos reais, focando em soluções inovadoras e desenvolvimento técnico em ambientes colaborativos.  
+Desenvolvedor de software formado em Desenvolvimento de Sistemas pelo SENAI e graduando em Engenharia de Software na Universidade Católica de Salvador. Apaixonado por tecnologia, busco aplicar meus conhecimentos em projetos reais, focando em soluções inovadoras e desenvolvimento técnico em ambientes colaborativos.  
 
 ### 💻 Linguagens e Tecnologias
 
