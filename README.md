@@ -18,6 +18,7 @@ Desenvolvedor de software formado em Desenvolvimento de Sistemas pelo SENAI e gr
   <img title=".NET" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
   <img title="Git" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </p>
+
 ### 📊 Estatísticas
 
 <p>
